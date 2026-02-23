@@ -51,7 +51,7 @@ Firebase project
 
 Installation
 bash# Clone the repo
-git clone https://github.com/YOUR_USERNAME/cogniite-x.git
+git clone https://github.com/novariyaz/cogniite-x.git
 
 # Enter project
 cd cogniite-x
